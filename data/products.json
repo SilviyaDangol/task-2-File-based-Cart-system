@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 60,
+      "name": "Lays",
+      "price": 100,
+      "category": "Chips"
+    },
+    {
+      "id": 67,
+      "name": "test",
+      "price": 80,
+      "category": "Chips"
+    },
+    {
+      "id": 31,
+      "name": "test",
+      "price": 80,
+      "category": "Chips"
+    },
+    {
+      "id": 50,
+      "name": "Snickers",
+      "price": 130,
+      "category": "chocolates"
+    }
+  ]
+}

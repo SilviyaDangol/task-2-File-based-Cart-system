@@ -1,0 +1,13 @@
+{
+  "carts": [
+    {
+      "userId": 10,
+      "items": [
+        {
+          "productId": 60,
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}
